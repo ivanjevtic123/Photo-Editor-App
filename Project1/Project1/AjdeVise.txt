@@ -1,0 +1,18 @@
+Novi projekat
+1
+primer.bmp
+0
+0
+0
+1
+sel1
+2
+12 12 2 2
+10 10 5 1
+2
+KompozitnoIme
+1
+1 
+20
+4 
+2

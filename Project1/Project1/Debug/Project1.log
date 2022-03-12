@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(428): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(429): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(430): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(434): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(435): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(436): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(489): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(490): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(491): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(495): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(496): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\basicoperations.h(497): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\compositeoperation.h(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\main.cpp(152): warning C4101: 'uneta': unreferenced local variable
+c:\users\ji180550d\desktop\poop_dz1\project1\project1\main.cpp(170): warning C4101: 'number': unreferenced local variable
+  Project1.vcxproj -> C:\Users\ji180550d\Desktop\POOP_dz1\Project1\Debug\Project1.exe
